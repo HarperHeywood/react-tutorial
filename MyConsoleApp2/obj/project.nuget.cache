@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4VtK5u+ar8Y=",
+  "success": true,
+  "projectFilePath": "/Users/harperheywood/my-app/MyConsoleApp2/MyConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "/Users/harperheywood/.nuget/packages/microsoft.dotnet.ilcompiler/9.0.8/microsoft.dotnet.ilcompiler.9.0.8.nupkg.sha512",
+    "/Users/harperheywood/.nuget/packages/microsoft.net.illink.tasks/9.0.8/microsoft.net.illink.tasks.9.0.8.nupkg.sha512",
+    "/Users/harperheywood/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/9.0.8/runtime.osx-arm64.microsoft.dotnet.ilcompiler.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

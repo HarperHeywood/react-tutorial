@@ -1,0 +1,15 @@
+/Users/harperheywood/my-app/MyConsole_App/bin/Debug/net9.0/MyConsole_App
+/Users/harperheywood/my-app/MyConsole_App/bin/Debug/net9.0/MyConsole_App.deps.json
+/Users/harperheywood/my-app/MyConsole_App/bin/Debug/net9.0/MyConsole_App.runtimeconfig.json
+/Users/harperheywood/my-app/MyConsole_App/bin/Debug/net9.0/MyConsole_App.dll
+/Users/harperheywood/my-app/MyConsole_App/bin/Debug/net9.0/MyConsole_App.pdb
+/Users/harperheywood/my-app/MyConsole_App/obj/Debug/net9.0/MyConsole_App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harperheywood/my-app/MyConsole_App/obj/Debug/net9.0/MyConsole_App.AssemblyInfoInputs.cache
+/Users/harperheywood/my-app/MyConsole_App/obj/Debug/net9.0/MyConsole_App.AssemblyInfo.cs
+/Users/harperheywood/my-app/MyConsole_App/obj/Debug/net9.0/MyConsole_App.csproj.CoreCompileInputs.cache
+/Users/harperheywood/my-app/MyConsole_App/obj/Debug/net9.0/MyConsole_App.sourcelink.json
+/Users/harperheywood/my-app/MyConsole_App/obj/Debug/net9.0/MyConsole_App.dll
+/Users/harperheywood/my-app/MyConsole_App/obj/Debug/net9.0/refint/MyConsole_App.dll
+/Users/harperheywood/my-app/MyConsole_App/obj/Debug/net9.0/MyConsole_App.pdb
+/Users/harperheywood/my-app/MyConsole_App/obj/Debug/net9.0/MyConsole_App.genruntimeconfig.cache
+/Users/harperheywood/my-app/MyConsole_App/obj/Debug/net9.0/ref/MyConsole_App.dll
